@@ -22,7 +22,7 @@ This project is a CLI application created with Node.js that generates a html pag
 
 ![Mobile View Screenshot](screenshots/teams.png)
 
-
+![Terminal Questions and Code Output](screenshots/tm.png)
   
 ## Installation Instructions
 
