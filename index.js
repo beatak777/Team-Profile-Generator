@@ -64,7 +64,12 @@ function writeToFile(fileName, data) {
             console.log(err);
             return;
         } else {
-            console.log('Your team has been created successfully. In order to access it, open the "output" folder.');
+            console.log(`
+            =======================
+            Your Team profile generated! 
+            Open output folder for results!
+            =======================
+            `);
         }
     })
 }
