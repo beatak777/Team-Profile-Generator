@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Description](#description)
+* [Demo Video](#demo-video)
 * [Screenshots](#screenshots)
 * [Installation Instructions](#installation-instructions)
 * [Usage](#usage)
@@ -16,6 +17,9 @@
 
 This project is a CLI application created with Node.js that generates a html page with through the user's input and provided data. The user can input data for names, roles, IDs, email addresses, an office number (for managers), GitHub links (for engineers), and schools (for interns.) The generated html file, in this case is created in the output folder. The user can change this to their benefit if they wish. Before usage, please use the necessarry commands in order to make sure that the app runs smoothly.
 
+## Demo Video
+
+[Link to Demo Video](https://drive.google.com/file/d/1iSxLT8HwJ3VooWu1lInpJS_98X-SqXcy/view)
 
 ## Screenshots
 ![Browser Screenshot](screenshots/team.png)
