@@ -19,8 +19,9 @@ This project is a CLI application created with Node.js that generates a html pag
 
 ## Demo Video
 
-[Link to Demo Video for terminal commands](https://drive.google.com/file/d/1iSxLT8HwJ3VooWu1lInpJS_98X-SqXcy/view)
-[Video Link to Browser View](https://drive.google.com/file/d/1BnTgri_Gf8FA-4Dis_fu4I5tik1B7aPP/view)
+- [Link to Demo Video for terminal commands](https://drive.google.com/file/d/1iSxLT8HwJ3VooWu1lInpJS_98X-SqXcy/view)
+
+- [Video Link to Browser View](https://drive.google.com/file/d/1BnTgri_Gf8FA-4Dis_fu4I5tik1B7aPP/view)
 
 ## Screenshots
 ![Browser Screenshot](screenshots/team.png)
