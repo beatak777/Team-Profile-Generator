@@ -8,54 +8,54 @@
     --ltPurp: #bb7ce4;
     --dkPurp: #48074b;
     --blue: #019ae6;
-  }
-  
-  .jumbotron {
+}
+
+.jumbotron {
     background-color: var(--dkOrange);
     background-image: url("https://img.freepik.com/free-photo/3d-modern-digital-landscape-with-network-grid_1048-10362.jpg?w=1480&t=st=1707821064~exp=1707821664~hmac=792401aca702d03919873a5a5b611bf41f8382f8765ce9257d4d204b9ca2997f");
     color: var(--ltYell);
     font-family: var(--myFont);
     font-weight: 800;
-  }
-  
-  body {
+}
+
+body {
     background-color: var(--ltOrange);
-  }
-  
-  .card {
+}
+
+.d-flex {
+    display: flex !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+.card {
     min-width: 30%;
     font-family: var(--myFont);
     font-weight: 400;
     margin: 0.5em;
     border: 1px solid var(--dkOrange);
     box-shadow: 3px 3px 5px;
-  }
-  
-  .card-header {
+}
+
+.card-header {
     text-align: right;
     background-color: var(--ltYell);
-  }
-  
-  .card-body {
-    font-size: 0.8em;
-  }
-  
-  .fa-mug-hot {
-    color: var(--dkPurp);
-  }
-  
-  .fa-glasses {
-    color: var(--dkRed);
-  }
-  
-  .fa-user-graduate {
-    color: var(--blue);
-  }
+}
 
-  .d-flex {
-    display: flex!important;
-    flex-direction: row;
-    flex-wrap: wrap;
-    align-content: center;
-    align-items: center;
-  }
+.card-body {
+    font-size: 0.8em;
+}
+
+.fa-mug-hot {
+    color: var(--dkPurp);
+}
+
+.fa-glasses {
+    color: var(--dkRed);
+}
+
+.fa-user-graduate {
+    color: var(--blue);
+}
