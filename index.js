@@ -57,7 +57,7 @@ function menu() {
 // function to initialize program
 init();
 
-// function to write README file
+// function to write output file
 function writeToFile(fileName, data) {
     fs.writeFile(fileName, data, err => {
         if (err) {
