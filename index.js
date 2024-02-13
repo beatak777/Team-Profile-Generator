@@ -65,10 +65,10 @@ function writeToFile(fileName, data) {
             return;
         } else {
             console.log(`
-            =======================
+            ===============================
             Your Team profile generated! 
             Open output folder for results!
-            =======================
+            ===============================
             `);
         }
     })
